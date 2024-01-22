@@ -7,7 +7,7 @@
 </head>
 <body>
 <div class="LoginBox" style="height: max-content;">
-    <div class="title">DevOps 2024</div>
+    <div class="title">My First Docker Application</div>
     <form method="post" action="Login">
         <div class="User-details">
             <div class="input-box">
